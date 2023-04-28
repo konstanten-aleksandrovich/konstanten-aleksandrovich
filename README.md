@@ -15,6 +15,16 @@ Backend-разработчик
 <a href="https://www.github.com/konstanten-aleksandrovich" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/konstanten-aleksandrovich?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+### Образовательные платформы
+
+<p align="left">
+<a href="https://stepik.org/users/42345533" target="_blank" rel="noreferrer"><img src="https://static.tildacdn.com/tild3265-6635-4634-b530-666538636637/stepik_logotype_squa.svg" width="36" height="36" alt="stepik" /></a>
+<a href="https://ru.hexlet.io/u/konstantin_aleksandrovich" target="_blank" rel="noreferrer"><img src="https://cdn2.hexlet.io/assets/hexlet_logo-4e7b643fd7cbe42da81624aba2faa9267523b2b925d5b576536e05d061659083.png" width="36" height="36" alt="Python" /></a>
+
+
+
+
 ### Skills
 
 
